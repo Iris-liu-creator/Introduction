@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **iris19990822@gmail.com**
 
-- ⚡ Fun fact **I am crazy sometimes**
+- ⚡ Fun fact **I am crazy enthusiastic about coding sometimes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
