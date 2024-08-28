@@ -1,19 +1,51 @@
-<h1 align="center">Hi👋, I'm Iris Liu</h1>
-<h3 align="center">An enthusiastic Business Analyst</h3>
-<img align="right" alt="analysing" width="400" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif">
+<h1 align="left">Hi! I'm Iris🐝</h1>
 
-- 💬 Ask me about **Everything about business insights and "what's next for your business"?**
+###
 
-- 📫 How to reach me **iris19990822@gmail.com**
+<p align="left">My name is Iris L, born and raised in Taiwan, based in Sydney, Australia.</p>
 
-- ⚡ Fun fact **I am crazy enthusiastic about coding sometimes**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/liu-iris-irish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/liu-iris-irish/" height="30" width="40" /></a>
-</p>
+<h2 align="left">Briefly about  me</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iris-liu-creator&show_icons=true&locale=en&layout=compact" alt="iris-liu-creator" /></p>
+<p align="left">✨ Crafting coherent and impactful visuals to drive transformations<br>📚 I'm currently learning Business process modelling and Data Framework<br>🎯 Goals: Optimise data insights for more accurate and effective decision-making<br>🎲 Fun fact: Crazy about learning cool skills!</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+</div>
+
+###
+
+<h2 align="left">Contact me via</h2>
+
+###
+
+<p align="left">Email: iris19990822@gmail.com</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/liu-iris-irish/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Iris-liu-creator/Iris-liu-creator/output/snake.svg" alt="Snake animation" />
+
+###
