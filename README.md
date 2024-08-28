@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiastic Business Analyst</h3>
 <img align="right" alt="analysing" width="400" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif">
 
-- 💬 Ask me about **Everything about business insights and "what's next for **
+- 💬 Ask me about **Everything about business insights and "what's next for your business"?**
 
 - 📫 How to reach me **iris19990822@gmail.com**
 
